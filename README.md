@@ -1,12 +1,12 @@
 
 # OSN Assignment 1
 
-##Assumption
+## Assumption
 
 We have taken the chunk size to be 1MB(1048576 Bytes). By doing to we're preventing if memory leakage
 
 ## Task
-Question 1
+### Question 1
 
 We have to write the program to reverse the content of the file and store it in a new file having directory named "Assignment".
 Ther percentage of the file written should be printed on the console during fle writing and should be overwritten everytime.
@@ -18,7 +18,7 @@ have the read and write permissions for the user who created it.
 The programs will be tested on large(>1GB) files which could be greater than 
 RAM size.
 
-Question 2
+### Question 2
 
 Write a program to reverse a specific portion of the file and store the result in a new file in the directory named
 “Assignment”.
@@ -49,5 +49,3 @@ For this problem. We'll break the file into 3 parts. First, from zero to start f
 After that we'll read the file from start to stop flag as it is and write it to output file.
 And the third part will be left to reverse and by reversing that part we'll write it again into 
 output file.
-# Sys-call
-# Sys-call
