@@ -49,3 +49,4 @@ For this problem. We'll break the file into 3 parts. First, from zero to start f
 After that we'll read the file from start to stop flag as it is and write it to output file.
 And the third part will be left to reverse and by reversing that part we'll write it again into 
 output file.
+# Sys-call
